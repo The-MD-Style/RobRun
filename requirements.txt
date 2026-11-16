@@ -1,0 +1,7 @@
+opencv-python
+numpy
+mss
+pyautogui
+pynput
+python-dotenv
+pyobjc-framework-Quartz; sys_platform == "darwin"
